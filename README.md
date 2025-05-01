@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/zamilpash/assets/imagen-portada.png" height="250px" width="60%" />
+  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="60%" />
 </div>
 
 <h2> Hey there! I'm Héctor Zamilpa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<img align="right" width="250px" height="200px" alt="Github" src="https://github.com/TU_USUARIO/TU_USUARIO/assets/imagen-perfil.png" />
+<img align="right" width="250px" height="200px" alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and Python Automation.
 
@@ -22,7 +22,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
       <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
     </a>
     <a href="mailto:zamilpas17@gmail.com" target="blank">
-      <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
+      <img align="center" src="https://github.com/zamilpash/zamilpash/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
     </a>
     <a href="https://discordapp.com/users/zamilpas" target="blank">
       <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
@@ -70,7 +70,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 
 ### 📊 Profile stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TU_USUARIO)
+[![Stats](https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/zamilpash?raw=true)
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamilpash&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
@@ -83,7 +83,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 > 3D Contrib
 
 <div align="center">
-  <img src="https://github.com/zamilpash/zamilpash/blob/master/profile-3d-contrib/profile-night-view.svg" 
+  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-night-view.svg" 
     alt="3d-contrib" height="85%" width="70%" />
 </div>
 
