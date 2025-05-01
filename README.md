@@ -87,11 +87,6 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
     alt="3d-contrib" height="85%" width="70%" />
 </div>
 
-> Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
 ---
 
