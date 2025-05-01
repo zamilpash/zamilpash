@@ -32,24 +32,19 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 
 ---
 
-<h3>🛠️ Languages and Tools:</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-- 🔧 &nbsp;
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PlatformIO](https://img.shields.io/badge/-PlatformIO-333333?style=flat&logo=platformio)
-
-<br/>
+#### :computer:🛠️ Programming languages ​​and tools: 
+<p>
+  
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
+<br />
 
 <div id="user-content-toc">
   <ul>
