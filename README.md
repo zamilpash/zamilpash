@@ -32,12 +32,14 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 
 ---
 
-#### :computer:🛠️ Programming languages ​​and tools: 
+<h3 style="font-size: 40px;">:computer:🛠️ Programming languages ​​and tools:</h3>
 <p>
   
-  <img width="50%" align="right" src= "https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&hide_border=true&title_color=ffffff&icon_color=FFD700&text_color=ffffff&bg_color=1E3A8A" >
 
-  
+ <a href="https://github.com/zamilpash?tab=overview">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&theme=radical" />
+</a>
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   <br />
