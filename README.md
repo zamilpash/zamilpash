@@ -22,7 +22,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
       <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
     </a>
     <a href="mailto:zamilpas17@gmail.com" target="blank">
-      <img align="center" src="https://github.com/zamilpash/zamilpash/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
+      <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
     </a>
     <a href="https://discordapp.com/users/zamilpas" target="blank">
       <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
@@ -70,7 +70,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 
 ### 📊 Profile stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/zamilpash?raw=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/zamilpash)
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamilpash&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
