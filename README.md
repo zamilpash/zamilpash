@@ -1,92 +1,98 @@
+<div align="center">
+  <img src="https://github.com/zamilpash/assets/imagen-portada.png" height="250px" width="60%" />
+</div>
 
-### Hey, [Hector here!]
+<h2> Hey there! I'm Héctor Zamilpa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<img align="right" width="250px" height="200px" alt="Github" src="https://github.com/TU_USUARIO/TU_USUARIO/assets/imagen-perfil.png" />
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and Python Automation.
 
-## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+- 🎓 &nbsp; Currently studying Mechatronics Engineering.
+- 🌱 &nbsp; Learning more about Embedded Systems, MicroROS, ROS 2, Linux, and IoT projects.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">How to reach me 🤝</h2></summary>
+  </ul>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/hzsarabia" target="blank">
+      <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    </a>
+    <a href="mailto:zamilpas17@gmail.com" target="blank">
+      <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
+    </a>
+    <a href="https://discordapp.com/users/zamilpas" target="blank">
+      <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+    </a>
+  </p>
+</div>
 
-## Programming Languages
-<img src = [ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
+---
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
- 
- -------
-Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
+<h3>🛠️ Languages and Tools:</h3>
 
-Last Edited on: 18/12/2020
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-👋 Hi there! I'm Héctor Sarabia
+- 🔧 &nbsp;
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PlatformIO](https://img.shields.io/badge/-PlatformIO-333333?style=flat&logo=platformio)
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
+<br/>
 
-Welcome to my GitHub profile! I'm a **Mechatronics Engineering student** with a strong interest in **robotics** and **embedded software development**.
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px">  </picture> Problem Solving</h2></summary>
+  </ul>
+</div>
 
-👀 About Me
-- 🎯 Focused on building **autonomous robotic systems** using **embedded C/C++**, **Python**, and **ROS 2**.
-- 📚 Currently learning:  
-  - Embedded systems programming  
-  - Microcontrollers (ESP32, Raspberry Pi Pico)  
-  - ROS 2 framework and micro-ROS  
-  - Linux & real-time systems
+<p>
+<a href="https://leetcode.com/ItsZamS/" target="blank">
+  <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" />
+</a>
+<a href="https://www.hackerrank.com/profile/zamilpash" target="blank">
+  <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" />
+</a>
+</p>
 
-🤝 I'm open to collaborate on:
-- Projects that involve robotics, embedded development, or real-time systems
-- Open-source contributions related to ROS 2 or automation
+---
 
-📫 How to reach me
-- 📧 Email: zamilpas17@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/hzsarabia](https://www.linkedin.com/in/hzsarabia)
+### 📊 Profile stats
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TU_USUARIO)
 
-⚡ Fun Fact
-I combine my love for robotics with my passion for **running** 🏃‍♂️ — always pushing limits both in code and on the track.
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamilpash&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</p>
 
+---
 
-Thanks for visiting! 🌟
+### 📊 Profile contribution
+
+> 3D Contrib
+
+<div align="center">
+  <img src="https://github.com/zamilpash/zamilpash/blob/master/profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height="85%" width="70%" />
+</div>
+
+> Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+Credit: [ZamilpasH](https://github.com/zamilpash)  
+Last Edited on: 30/04/2025
