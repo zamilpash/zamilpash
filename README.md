@@ -35,7 +35,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 #### :computer:🛠️ Programming languages ​​and tools: 
 <p>
   
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&hide_border=true" />
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
@@ -45,6 +45,8 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 <br />
+
+---
 
 <div id="user-content-toc">
   <ul>
