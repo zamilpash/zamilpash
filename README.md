@@ -83,7 +83,7 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 > 3D Contrib
 
 <div align="center">
-  <img src="https://github.com/zamilpash/zamilpash/master/profile-3d-contrib/profile-night-view.svg" 
+  <img src="https://github.com/zamilpash/zamilpash/blob/master/profile-3d-contrib/profile-night-view.svg" 
     alt="3d-contrib" height="85%" width="70%" />
 </div>
 
