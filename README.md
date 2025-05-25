@@ -78,6 +78,9 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 
 ---
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zamilpash&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ### 📊 Profile contribution
 
 > 3D Contrib
