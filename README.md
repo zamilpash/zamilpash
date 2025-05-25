@@ -70,16 +70,9 @@ I'm a Mechatronics student who is passionate about Robotics, Embedded Linux, and
 
 ### 📊 Profile stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=zamilpash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/zamilpash)
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamilpash&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</p>
-
----
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zamilpash&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+
 
 ### 📊 Profile contribution
 
